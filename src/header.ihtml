@@ -1,0 +1,10 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <h1>Nihal Jere</h1>
+    <div class="nav-container">
+        <ul class="nav-links">
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact<a/></li>
+        </ul>
+    </div>
+</head>

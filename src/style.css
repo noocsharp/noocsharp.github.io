@@ -1,0 +1,22 @@
+h1 {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-links > li {
+    display: inline-block;
+    margin: auto;
+}
+
+.nav-links {
+    list-style: none;
+    white-space: nowrap;
+    overflow-x: auto;
+    text-align: center;
+}
+
+.nav-container {
+    margin: auto;
+}
